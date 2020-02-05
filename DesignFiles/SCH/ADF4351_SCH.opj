@@ -1,0 +1,176 @@
+(ExpressProject "ADF4351_SCH"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\adf4351_sch.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Preserved_Waived "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Report_File "G:\CADENCE ALLEGRO\MY_PRJ\ADF4351\SCH\ADF4351_SCH.DRC")
+    (DRC_Check_Ports "TRUE")
+    (DRC_Check_Off-Page_Connectors "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Run_Electrical_Custom_DRC "FALSE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\ADF4351_SCH.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs"
+    (File ".\adf4351_sch.drc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (GND_SIGNAL
+      (LibraryName "H:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (FB
+      (FullPartName "FB.Normal")
+      (LibraryName "G:\CADENCE ALLEGRO\MY_LIB\MY_SCH_LIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 5X2"
+      (FullPartName "HEADER 5X2.Normal")
+      (LibraryName "H:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 4X2"
+      (FullPartName "HEADER 4X2.Normal")
+      (LibraryName "H:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (BNC
+      (FullPartName "BNC.Normal")
+      (LibraryName "G:\CADENCE ALLEGRO\MY_LIB\MY_SCH_LIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    (INDUCTANCE
+      (FullPartName "INDUCTANCE.Normal")
+      (LibraryName "G:\CADENCE ALLEGRO\MY_LIB\MY_SCH_LIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "G:\CADENCE ALLEGRO\MY_LIB\MY_SCH_LIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    (TEST_POINT
+      (FullPartName "TEST_POINT.Normal")
+      (LibraryName "G:\CADENCE ALLEGRO\MY_LIB\MY_SCH_LIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "H:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "G:\CADENCE ALLEGRO\MY_LIB\MY_SCH_LIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    (XTAL_SMD
+      (FullPartName "XTAL_SMD.Normal")
+      (LibraryName "G:\CADENCE ALLEGRO\MY_LIB\MY_SCH_LIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "H:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "H:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "G:\CADENCE ALLEGRO\MY_LIB\MY_SCH_LIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    (ADF4351
+      (FullPartName "ADF4351.Normal")
+      (LibraryName "G:\CADENCE ALLEGRO\MY_LIB\MY_SCH_LIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    ("CAP POL"
+      (FullPartName "CAP POL.Normal")
+      (LibraryName "G:\CADENCE ALLEGRO\MY_LIB\MY_SCH_LIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 2"
+      (FullPartName "HEADER 2.Normal")
+      (LibraryName "H:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (LP5900SD-3V3
+      (FullPartName "LP5900SD-3V3.Normal")
+      (LibraryName "G:\CADENCE ALLEGRO\MY_LIB\MY_SCH_LIB\MY_LIB.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "g:\cadence allegro\my_prj\adf4351\sch\adf4351_sch.dsn")
+      (Path "Design Resources"
+         "g:\cadence allegro\my_prj\adf4351\sch\adf4351_sch.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "g:\cadence allegro\my_prj\adf4351\sch\adf4351_sch.dsn" "SCHEMATIC1"
+         "01-MCU"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -27 0 200 0 150"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
+        (Scroll "0 14")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "G:\CADENCE ALLEGRO\MY_PRJ\ADF4351\SCH\ADF4351_SCH.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "02-POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -27 78 1089 78 409")
+        (Scroll "-185 0")
+        (Zoom "62")
+        (Occurrence "/"))
+      (Path "G:\CADENCE ALLEGRO\MY_PRJ\ADF4351\SCH\ADF4351_SCH.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "01-MCU")))
+  (LastUsedLibraryBrowseDirectory "G:\Cadence Allegro\My_LIB\My_SCH_LIB")
+  (ISPCBBASICLICENSE "false")
+  (MPSSessionName "12566"))

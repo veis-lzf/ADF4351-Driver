@@ -1,0 +1,37 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  G:/Cadence Allegro/My_Prj/ADF4351/ADF4351_PCB_Finish.brd*
+G04 Film Name:    09_PAST_BOTTOM*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 16.6-2015-S108*
+G04 Origin Date:  Tue Feb 19 09:10:30 2019*
+G04 *
+G04 Layer:  BOARD GEOMETRY/OUTLINE*
+G04 Layer:  PIN/PASTEMASK_BOTTOM*
+G04 Layer:  PACKAGE GEOMETRY/PASTEMASK_BOTTOM*
+G04 *
+G04 Offset:    (0.00 0.00)*
+G04 Mirror:    No*
+G04 Mode:      Positive*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     6.00*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX25Y25*MOIN*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD10R,.1598X.0598*%
+%ADD11C,.006*%
+G75*
+%LPD*%
+G75*
+G54D10*
+X184000Y18000D03*
+Y38000D03*
+Y77500D03*
+Y97500D03*
+G54D11*
+G01X0Y0D02*
+X196850D01*
+Y118110D01*
+X0D01*
+Y0D01*
+M02*

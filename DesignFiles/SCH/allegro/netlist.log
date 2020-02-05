@@ -1,0 +1,30 @@
+{ Using PSTWRITER 16.6.0 d001Feb-18-2019 at 14:55:29 }
+
+#1 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package BNC , BNC1: SCHEMATIC1, 01-MCU (8.90, 5.90).
+#2 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#3" as visible power pin of same name already exists in Package BNC , BNC1: SCHEMATIC1, 01-MCU (8.90, 5.90).
+#3 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package BNC , BNC1: SCHEMATIC1, 01-MCU (8.90, 5.90).
+#4 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#5" as visible power pin of same name already exists in Package BNC , BNC1: SCHEMATIC1, 01-MCU (8.90, 5.90).
+#5 WARNING(ORCAP-36006): Part Name "LP5900SD-3V3_QFN-6_LP5900SD-3V3/QFN-6" is renamed to "LP5900SD-3V3_QFN-6_LP5900SD-3V3".
+#6 WARNING(ORCAP-36042): Pin "AGND " is renamed to "AGND" as visible power pin of same name already exists in Package ADF4351_0 , U3: SCHEMATIC1, 01-MCU (4.20, 3.30).
+#7 WARNING(ORCAP-36042): Pin "AVDD " is renamed to "AVDD" as visible power pin of same name already exists in Package ADF4351_0 , U3: SCHEMATIC1, 01-MCU (4.20, 3.30).
+#8 WARNING(ORCAP-36042): Pin "AGNDVCO " is renamed to "AGNDVCO#11" as visible power pin of same name already exists in Package ADF4351_0 , U3: SCHEMATIC1, 01-MCU (4.20, 3.30).
+#9 WARNING(ORCAP-36042): Pin "VVCO" is renamed to "VVCO#16" as visible power pin of same name already exists in Package ADF4351_0 , U3: SCHEMATIC1, 01-MCU (4.20, 3.30).
+#10 WARNING(ORCAP-36042): Pin "VVCO " is renamed to "VVCO#17" as visible power pin of same name already exists in Package ADF4351_0 , U3: SCHEMATIC1, 01-MCU (4.20, 3.30).
+#11 WARNING(ORCAP-36042): Pin "AGNDVCO " is renamed to "AGNDVCO#18" as visible power pin of same name already exists in Package ADF4351_0 , U3: SCHEMATIC1, 01-MCU (4.20, 3.30).
+#12 WARNING(ORCAP-36042): Pin "AGNDVCO " is renamed to "AGNDVCO#21" as visible power pin of same name already exists in Package ADF4351_0 , U3: SCHEMATIC1, 01-MCU (4.20, 3.30).
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... G:\CADENCE ALLEGRO\MY_PRJ\ADF4351\SCH\allegro/pstchip.dat
+
+Loading... G:\CADENCE ALLEGRO\MY_PRJ\ADF4351\SCH\allegro/pstchip.dat
+
+Loading... G:\CADENCE ALLEGRO\MY_PRJ\ADF4351\SCH\allegro/pstxprt.dat
+
+Loading... G:\CADENCE ALLEGRO\MY_PRJ\ADF4351\SCH\allegro/pstxnet.dat
+ERROR(SPCODD-409): 
+			Reference Designator: U3. Error at line 86 in file G:\CADENCE ALLEGRO\MY_PRJ\ADF4351\SCH\allegro/pstxnet.dat. Could not create new pin inst: SW .
+        Schematic Instance: @adf4351_sch.schematic1(sch_1):ins2568@adf4351_sch.\adf4351_0.normal\(chips) (MODULE: ADF4351_SCH; PART: ADF4351_0). Check the symbol for consistency of pin definition.
+
+ERROR(SPCODD-383): Error at line 86 in file G:\CADENCE ALLEGRO\MY_PRJ\ADF4351\SCH\allegro/pstxnet.dat. Error loading the net list file
+
+#13 ERROR(ORCAP-36026): Unable to read logical netlist data.

@@ -1,0 +1,730 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Feb-18-2019 at 14:55:33 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ADF4351_SCH';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ BNC1 'BNC_BNC5_2R54_7R7_SM_V_BNC':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS36757@MY_LIB.BNC.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins36757@my_lib.\bnc.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins36757@my_lib.\bnc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC2 'BNC_BNC5_2R54_7R7_SM_V_BNC':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS37278@MY_LIB.BNC.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins37278@my_lib.\bnc.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins37278@my_lib.\bnc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1 'CAP NP_C0603_0.47UF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS163@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins163@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins163@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_C0603_680PF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS8499@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins8499@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins8499@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_C0603_47NF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS8580@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins8580@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins8580@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_C0603_2.7NF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS8663@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins8663@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins8663@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_C0603_10PF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS12210@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins12210@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins12210@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_C0603_0.1UF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS12236@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins12236@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins12236@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_C0603_10PF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS13402@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins13402@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins13402@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_C0603_0.1UF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS13418@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins13418@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins13418@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_C0603_120PF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS15698@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins15698@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins15698@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_C0603_0.1UF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS15714@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins15714@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins15714@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_C0603_120PF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS15782@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins15782@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins15782@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_C0603_0.47UF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS179@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins179@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins179@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_C0603_1NF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS16905@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins16905@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins16905@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP NP_C0603_1NF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS16937@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins16937@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins16937@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP NP_C0603_0.1UF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS20660@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins20660@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins20660@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_C0603_10PF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS20676@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins20676@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins20676@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_C0603_0.1UF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS21614@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins21614@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins21614@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_C0603_10PF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS21630@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins21630@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins21630@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_C0603_0.1UF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS21861@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins21861@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins21861@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_C0603_10PF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS21877@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins21877@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins21877@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP NP_C0603_0.1UF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS23041@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins23041@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins23041@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP NP_C0603_10PF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS23057@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins23057@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins23057@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP POL_TA3216_22UF 16V/TA3216':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS1007@MY_LIB.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins1007@my_lib.\cap pol.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins1007@my_lib.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP NP_C0603_0.1UF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS25190@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins25190@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins25190@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP NP_C0603_10PF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS25206@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins25206@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins25206@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP NP_C0603_10PF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS32201@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins32201@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins32201@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP NP_C0603_0.1UF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS32217@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins32217@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins32217@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_C0603_0.47UF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS1869@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins1869@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins1869@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_C0603_0.47UF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS1885@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins1885@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins1885@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_C0603_1UF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS5957@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins5957@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins5957@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_C0603_100PF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS5973@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins5973@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins5973@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_C0603_1NF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS6449@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins6449@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins6449@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_C0603_1NF/C0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS6495@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins6495@my_lib.\cap np.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins6495@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_LED0603_LED':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS12041@MY_LIB.LED.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins12041@my_lib.\led.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins12041@my_lib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_LED0603_LED':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS29144@MY_LIB.LED.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins29144@my_lib.\led.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins29144@my_lib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER 2_KF_2EDG_3_81X2_PWR':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS849@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins849@connector.\header 2.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins849@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'HEADER 5X2_HDR_2X5_HEADER 5X2':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS27689@CONNECTOR.HEADER 5X2.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins27689@connector.\header 5x2.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins27689@connector.\header 5x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTANCE_L0603_3.9NH':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS15489@MY_LIB.INDUCTANCE.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins15489@my_lib.\inductance.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins15489@my_lib.\inductance.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTANCE_L0603_3.9NH':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS15515@MY_LIB.INDUCTANCE.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins15515@my_lib.\inductance.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins15515@my_lib.\inductance.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTANCE_L0603_1.9NH':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS17031@MY_LIB.INDUCTANCE.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins17031@my_lib.\inductance.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins17031@my_lib.\inductance.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5 'INDUCTANCE_L0603_1.9NH':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS17063@MY_LIB.INDUCTANCE.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins17063@my_lib.\inductance.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins17063@my_lib.\inductance.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LB1 'FB_L0603_600R/L0603':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS2130@MY_LIB.FB.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins2130@my_lib.\fb.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins2130@my_lib.\fb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LB2 'FB_L0603_600R':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS28017@MY_LIB.FB.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins28017@my_lib.\fb.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins28017@my_lib.\fb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS2690@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins2690@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins2690@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS6325@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins6325@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins6325@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_R0603_DIN/51R':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS6551@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins6551@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins6551@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS8527@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins8527@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins8527@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_R0603_360R':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS8622@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins8622@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins8622@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS8777@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins8777@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins8777@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_R0603_DIN':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS9444@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins9444@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins9444@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS11993@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins11993@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins11993@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS15022@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins15022@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins15022@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS15054@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins15054@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins15054@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_R0603_4K7':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS23922@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins23922@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins23922@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_R0603_DNI':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS2710@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins2710@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins2710@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_R0603_DIN':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS25679@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins25679@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins25679@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS26061@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins26061@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins26061@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_R0603_5K1':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS29124@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins29124@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins29124@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS31800@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins31800@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins31800@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS3266@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins3266@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins3266@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_R0603_DNI':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS3286@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins3286@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins3286@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS4856@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins4856@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins4856@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS4876@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins4876@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins4876@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS4896@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins4896@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins4896@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS5063@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins5063@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins5063@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_R0603_DIN':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS5095@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins5095@my_lib.\r.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins5095@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'LP5900SD-3V3_QFN-6_LP5900SD-3V3':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS124@MY_LIB.LP5900SD-3V3.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins124@my_lib.\lp5900sd-3v3.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins124@my_lib.\lp5900sd-3v3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'LP5900SD-3V3_QFN-6_LP5900SD-3V3':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS1843@MY_LIB.LP5900SD-3V3.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins1843@my_lib.\lp5900sd-3v3.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins1843@my_lib.\lp5900sd-3v3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'ADF4351_0_QFN-32_ADF4351':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS2568@ADF4351_SCH.ADF4351_0.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins2568@adf4351_sch.\adf4351_0.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins2568@adf4351_sch.\adf4351_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'XTAL_SMD_CRY_3225_100MHZ':;
+
+SECTION_NUMBER 1
+ '@ADF4351_SCH.SCHEMATIC1(SCH_1):INS5677@MY_LIB.XTAL_SMD.NORMAL(CHIPS)':
+ C_PATH='@adf4351_sch.schematic1(sch_1):ins5677@my_lib.\xtal_smd.normal\(chips)',
+ P_PATH='@adf4351_sch.schematic1(sch_1):page_ins5677@my_lib.\xtal_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
